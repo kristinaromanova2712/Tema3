@@ -1,0 +1,9 @@
+acnee Dermatolog
+arsura Dermatolog
+eczema Dermatolog
+carie Stomatolog
+detartraj Stomatolog
+gingivita Stomatolog
+aritmie Cardiolog
+infarct Cardiolog
+hipertensiune Cardiolog

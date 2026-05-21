@@ -1,0 +1,12 @@
+Dermatolog Popescu Ion 5000 10
+Dermatolog Georgescu Ana 4800 4
+Stomatolog Ionescu Maria 6500 15
+Stomatolog Dobre Vlad 6100 8
+Cardiolog Vasile Dan 7500 20
+Cardiolog Matei Elena 8000 12
+Dermatolog Ion Maria 5000 2
+Stomatolog Radulescu Marian 5000 1
+Stomatolog Popa Geanina 6000 0
+Dermatolog Mihai Matei 5000 0
+Oftalmolog Abulescu Mariana 8000 0
+Stomatolog Malinescu Anica 11000 1
